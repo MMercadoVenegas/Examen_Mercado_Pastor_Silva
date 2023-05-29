@@ -63,7 +63,7 @@ body {
     padding: 150px 100px;
     width: 50%;
     text-align: center;
-    background-color: #fff;
+    background: linear-gradient(120deg, #2980b9,#8e44ad);
 }
 
 .form h2 {
@@ -79,6 +79,7 @@ body {
 }
 
 .inputs {
+    
     display: flex;
     flex-direction: column;
 }
